@@ -1,6 +1,7 @@
 """
 File: PotholeFilling.py
-Name: TODO:
+Name: Daniel
+TODO:
 --------------------------
 This program shows karel filling 3
 potholes. Students learn the concept of
