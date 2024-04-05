@@ -1,5 +1,5 @@
 # Karel Project - PYTHON
-Hello there!\
+Hello there! My name is Daniel.\
 This repository holds my programming projects done during the period of stanford online course.
 
 # Project Source Codes:
